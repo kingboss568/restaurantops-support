@@ -26,4 +26,4 @@
 
 ## 隱私權政策
 
-請見 [privacy-policy.md](privacy-policy.md)。
+請見 [privacy-policy.html](privacy-policy.html) 或 [privacy-policy.md](privacy-policy.md)。
